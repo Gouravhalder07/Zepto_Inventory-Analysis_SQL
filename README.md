@@ -1,15 +1,15 @@
 # 🛒 Zepto E-commerce SQL Data Analyst Portfolio Project
 
-This portfolio project is based on an e-commerce inventory dataset scraped from Zepto — one of India’s fastest-growing quick-commerce startups. This project simulates real analyst workflows, from raw data exploration to business-focused data analysis.
+This portfolio project is based on an e-commerce inventory dataset scraped from Zepto - one of India’s fastest-growing quick-commerce startups. This project simulates real analyst workflows, from raw data exploration to business-focused data analysis.
 
 ## 📌 Project Overview
 
 The goal is to simulate how actual data analysts in the e-commerce or retail industries work behind the scenes to use SQL to:
 
-  ✅ Set up a messy, real-world e-commerce inventory database
-  ✅ Perform Exploratory Data Analysis (EDA) to explore product categories, availability, and pricing inconsistencies
-  ✅ Implement Data Cleaning to handle null values, remove invalid entries, and convert pricing from paise to rupees
-  ✅ Write business-driven SQL queries to derive insights around pricing, inventory, stock availability, revenue and more.
+    ✅ Set up a messy, real-world e-commerce inventory database
+    ✅ Perform Exploratory Data Analysis (EDA) to explore product categories, availability, and pricing inconsistencies
+    ✅ Implement Data Cleaning to handle null values, remove invalid entries, and convert pricing from paise to rupees
+    ✅ Write business-driven SQL queries to derive insights around pricing, inventory, stock availability, revenue and more.
 
 ## 🔧 Project Workflow
 Here’s a step-by-step breakdown of what we do in this project:
